@@ -17,5 +17,6 @@
   },
   "dependencies": {
     "chatter-bot-brains": "^1.0.1"
-  }
+  },
+  "gitHead": "3f770cc4990fed8f63947bc6ba3702588b131d1b"
 }
