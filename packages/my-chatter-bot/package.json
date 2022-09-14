@@ -1,0 +1,21 @@
+{
+  "name": "my-chatter-bot",
+  "version": "1.0.0",
+  "description": "an awesome AI",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^2.79.0",
+    "rollup-plugin-dts": "^4.2.2",
+    "rollup-plugin-typescript2": "^0.34.0",
+    "typescript": "^4.8.3"
+  },
+  "dependencies": {
+    "chatter-bot-brains": "^1.0.0"
+  }
+}
